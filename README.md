@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" alt="Vicky" width="300"/>
+  <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" alt="Vicky" width="300"/>
 </p>
 
 # Hello, I'm Viki 👋

@@ -70,7 +70,7 @@ E-commerce businesses are growing continuously and as such, it is important to e
 - Worked on store settings modules.
 - Implemented user management module.
 
-3. [Electric Bike Review](https://www.wolfgordon.com/): 
+3. [Electric Bike Review] (https://electricbikereview.com/): 
 
 This is an Website about electric bikes. It discusses different categories of electric bikes and the features they offer. Some of the important points are that electric bikes come in a variety of styles, including cargo, commuter, and mountain bikes. They also have a wide range of features, such as suspension forks, powerful motors, and integrated lights.
 
